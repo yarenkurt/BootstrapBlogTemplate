@@ -1,0 +1,62 @@
+.bg-star{
+    background-color: #D1DCE2;
+}
+
+.bg-border{
+    background-color: #D1DCE2; 
+    border: 1px solid #062B39;
+}
+
+.border-line{
+    border-color:#062B39;
+}
+
+.send-btn:hover{
+    background-color: #D1DCE2;
+    color: #000 !important;
+
+}
+/*Resim koymak istediğim her arkaplan için bu css komutuna ihtiyaç olacak */
+.dark-bg{
+    background-image: linear-gradient(rgba(0,0,0, .7), rgba(0,0,0, .7)),url('../image/bg3.jpg');
+    background-size: cover;
+    background-position: center center ;
+    background-attachment: fixed;
+}
+
+.dark-contact-bg{
+    background-image: linear-gradient(rgba(0,0,0, .7), rgba(0,0,0, .7)),url('../image/hero-bg.jpg');
+    background-size: cover;
+    background-position: center center ;
+    background-attachment: fixed;
+}
+
+.dark-divider-bg{
+    background-image: linear-gradient(rgba(0,0,0, .7), rgba(0,0,0, .7)),url('../image/bg.jpg');
+    background-size: cover;
+    background-position: center center ;
+    background-attachment: fixed;
+}
+
+#hero .container{
+    height:50vh ;
+}
+.icon-color{
+    color: #D1DCE2 ;
+}
+
+.text-color{
+    color: #062B39;
+}
+
+.text-size{
+    font-size: 13px;
+}
+
+.generic{
+    padding: 100px 0;
+}
+
+
+
+
